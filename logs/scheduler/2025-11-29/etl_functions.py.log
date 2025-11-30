@@ -1558,3 +1558,723 @@ ModuleNotFoundError: No module named 'numpy'
 [2025-11-29T21:32:43.754+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:32:43.754+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
 [2025-11-29T21:32:43.944+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
 [2025-11-29T21:32:43.971+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-29T21:49:50.651+0200] {processor.py:161} INFO - Started process (PID=39973) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:49:50.651+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:49:50.652+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:49:50.651+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:49:50.906+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:49:50.935+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.287 seconds
+[2025-11-29T21:51:13.625+0200] {processor.py:161} INFO - Started process (PID=40156) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:51:13.625+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:51:13.626+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:51:13.626+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:51:13.820+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:51:13.846+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.222 seconds
+[2025-11-29T21:52:07.198+0200] {processor.py:161} INFO - Started process (PID=40233) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:52:07.199+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:52:07.199+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:52:07.199+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:52:07.444+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:52:07.472+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.275 seconds
+[2025-11-29T21:53:01.270+0200] {processor.py:161} INFO - Started process (PID=40311) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:53:01.271+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:53:01.271+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:53:01.271+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:53:01.474+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:53:01.501+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.233 seconds
+[2025-11-29T21:53:55.120+0200] {processor.py:161} INFO - Started process (PID=40396) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:53:55.121+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:53:55.121+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:53:55.121+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:53:55.624+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:53:55.660+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.543 seconds
+[2025-11-29T21:54:49.634+0200] {processor.py:161} INFO - Started process (PID=40534) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:54:49.635+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:54:49.635+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:54:49.635+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:54:49.834+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:54:49.863+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.230 seconds
+[2025-11-29T21:55:41.010+0200] {processor.py:161} INFO - Started process (PID=40607) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:55:41.012+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:55:41.012+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:55:41.012+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:55:41.271+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:55:41.300+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.290 seconds
+[2025-11-29T21:56:32.710+0200] {processor.py:161} INFO - Started process (PID=40675) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:56:32.711+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:56:32.711+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:56:32.711+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:56:32.916+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:56:32.944+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.235 seconds
+[2025-11-29T21:57:23.617+0200] {processor.py:161} INFO - Started process (PID=40734) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:57:23.618+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:57:23.618+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:57:23.618+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:57:23.874+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:57:23.901+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.285 seconds
+[2025-11-29T21:58:11.816+0200] {processor.py:161} INFO - Started process (PID=40789) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:58:11.817+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:58:11.817+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:58:11.817+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:58:12.011+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:58:12.038+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-29T21:59:00.930+0200] {processor.py:161} INFO - Started process (PID=40848) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:59:00.932+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:59:00.932+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:59:00.932+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:59:01.182+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:59:01.208+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.279 seconds
+[2025-11-29T21:59:51.685+0200] {processor.py:161} INFO - Started process (PID=40909) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:59:51.686+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T21:59:51.686+0200] {logging_mixin.py:188} INFO - [2025-11-29T21:59:51.686+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:59:51.882+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T21:59:51.910+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.225 seconds
+[2025-11-29T22:00:45.651+0200] {processor.py:161} INFO - Started process (PID=40973) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:00:45.652+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:00:45.652+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:00:45.652+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:00:45.904+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:00:45.931+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.281 seconds
+[2025-11-29T22:01:39.801+0200] {processor.py:161} INFO - Started process (PID=41057) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:01:39.801+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:01:39.801+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:01:39.801+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:01:39.999+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:01:40.028+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.228 seconds
+[2025-11-29T22:02:30.955+0200] {processor.py:161} INFO - Started process (PID=41116) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:02:30.956+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:02:30.956+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:02:30.956+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:02:31.150+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:02:31.178+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-29T22:03:19.758+0200] {processor.py:161} INFO - Started process (PID=41170) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:03:19.759+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:03:19.759+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:03:19.759+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:03:19.949+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:03:19.976+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-29T22:04:10.025+0200] {processor.py:161} INFO - Started process (PID=41235) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:04:10.026+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:04:10.026+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:04:10.026+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:04:10.282+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:04:10.309+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.285 seconds
+[2025-11-29T22:04:58.808+0200] {processor.py:161} INFO - Started process (PID=41297) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:04:58.808+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:04:58.809+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:04:58.809+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:04:58.999+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:04:59.025+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.218 seconds
+[2025-11-29T22:05:48.500+0200] {processor.py:161} INFO - Started process (PID=41383) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:05:48.501+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:05:48.501+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:05:48.501+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:05:48.853+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:05:48.879+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.381 seconds
+[2025-11-29T22:06:41.182+0200] {processor.py:161} INFO - Started process (PID=41456) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:06:41.183+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:06:41.183+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:06:41.183+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:06:41.376+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:06:41.403+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.222 seconds
+[2025-11-29T22:07:35.307+0200] {processor.py:161} INFO - Started process (PID=41530) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:07:35.308+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:07:35.308+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:07:35.308+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:07:35.577+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:07:35.604+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.299 seconds
+[2025-11-29T22:08:24.486+0200] {processor.py:161} INFO - Started process (PID=41589) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:08:24.486+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:08:24.487+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:08:24.487+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:08:24.705+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:08:24.735+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.251 seconds
+[2025-11-29T22:09:17.584+0200] {processor.py:161} INFO - Started process (PID=41659) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:09:17.585+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:09:17.586+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:09:17.586+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:09:17.848+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:09:17.874+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.291 seconds
+[2025-11-29T22:10:09.312+0200] {processor.py:161} INFO - Started process (PID=41725) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:10:09.314+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:10:09.314+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:10:09.314+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:10:09.505+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:10:09.531+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:10:57.815+0200] {processor.py:161} INFO - Started process (PID=41782) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:10:57.816+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:10:57.817+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:10:57.816+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:10:58.074+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:10:58.101+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.287 seconds
+[2025-11-29T22:11:50.957+0200] {processor.py:161} INFO - Started process (PID=41858) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:11:50.959+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:11:50.959+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:11:50.959+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:11:51.175+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:11:51.205+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.249 seconds
+[2025-11-29T22:12:40.475+0200] {processor.py:161} INFO - Started process (PID=41912) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:12:40.476+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:12:40.476+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:12:40.476+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:12:40.727+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:12:40.754+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.280 seconds
+[2025-11-29T22:13:26.812+0200] {processor.py:161} INFO - Started process (PID=41969) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:13:26.813+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:13:26.813+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:13:26.813+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:13:27.004+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:13:27.031+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:14:13.120+0200] {processor.py:161} INFO - Started process (PID=42024) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:14:13.121+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:14:13.121+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:14:13.121+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:14:13.389+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:14:13.417+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.299 seconds
+[2025-11-29T22:15:06.922+0200] {processor.py:161} INFO - Started process (PID=42091) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:15:06.923+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:15:06.923+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:15:06.923+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:15:07.115+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:15:07.142+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-29T22:16:00.678+0200] {processor.py:161} INFO - Started process (PID=42157) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:16:00.678+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:16:00.678+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:16:00.678+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:16:00.880+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:16:00.907+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.230 seconds
+[2025-11-29T22:16:52.257+0200] {processor.py:161} INFO - Started process (PID=42218) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:16:52.258+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:16:52.258+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:16:52.258+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:16:52.447+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:16:52.474+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.218 seconds
+[2025-11-29T22:17:42.531+0200] {processor.py:161} INFO - Started process (PID=42274) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:17:42.532+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:17:42.532+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:17:42.532+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:17:42.790+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:17:42.819+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.289 seconds
+[2025-11-29T22:18:33.124+0200] {processor.py:161} INFO - Started process (PID=42330) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:18:33.125+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:18:33.125+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:18:33.125+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:18:33.316+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:18:33.343+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:19:26.901+0200] {processor.py:161} INFO - Started process (PID=42394) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:19:26.902+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:19:26.902+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:19:26.902+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:19:27.157+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:19:27.187+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.287 seconds
+[2025-11-29T22:20:19.755+0200] {processor.py:161} INFO - Started process (PID=42454) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:20:19.757+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:20:19.757+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:20:19.757+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:20:19.948+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:20:19.975+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:21:12.364+0200] {processor.py:161} INFO - Started process (PID=42518) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:21:12.365+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:21:12.365+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:21:12.365+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:21:12.625+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:21:12.651+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.289 seconds
+[2025-11-29T22:22:04.730+0200] {processor.py:161} INFO - Started process (PID=42590) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:22:04.731+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:22:04.732+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:22:04.732+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:22:04.922+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:22:04.951+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.222 seconds
+[2025-11-29T22:22:56.717+0200] {processor.py:161} INFO - Started process (PID=42687) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:22:56.718+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:22:56.718+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:22:56.718+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:22:56.975+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:22:57.002+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.286 seconds
+[2025-11-29T22:23:49.678+0200] {processor.py:161} INFO - Started process (PID=42775) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:23:49.679+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:23:49.679+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:23:49.679+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:23:49.869+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:23:49.896+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-29T22:24:41.574+0200] {processor.py:161} INFO - Started process (PID=42834) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:24:41.575+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:24:41.575+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:24:41.575+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:24:41.769+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:24:41.796+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.223 seconds
+[2025-11-29T22:25:32.690+0200] {processor.py:161} INFO - Started process (PID=42894) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:25:32.690+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:25:32.691+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:25:32.691+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:25:32.880+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:25:32.906+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.217 seconds
+[2025-11-29T22:26:21.502+0200] {processor.py:161} INFO - Started process (PID=42965) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:26:21.504+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:26:21.504+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:26:21.504+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:26:21.755+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:26:21.782+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.280 seconds
+[2025-11-29T22:27:11.591+0200] {processor.py:161} INFO - Started process (PID=43042) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:27:11.592+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:27:11.592+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:27:11.592+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:27:11.784+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:27:11.810+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:27:59.244+0200] {processor.py:161} INFO - Started process (PID=43096) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:27:59.245+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:27:59.245+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:27:59.245+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:27:59.500+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:27:59.529+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.286 seconds
+[2025-11-29T22:28:51.001+0200] {processor.py:161} INFO - Started process (PID=43158) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:28:51.002+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:28:51.002+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:28:51.002+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:28:51.194+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:28:51.221+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-29T22:29:41.502+0200] {processor.py:161} INFO - Started process (PID=43215) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:29:41.504+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:29:41.504+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:29:41.504+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:29:41.759+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:29:41.787+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.286 seconds
+[2025-11-29T22:30:31.046+0200] {processor.py:161} INFO - Started process (PID=43275) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:30:31.047+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:30:31.047+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:30:31.047+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:30:31.240+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:30:31.266+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-29T22:31:24.118+0200] {processor.py:161} INFO - Started process (PID=43337) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:31:24.119+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:31:24.119+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:31:24.119+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:31:24.379+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:31:24.406+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.289 seconds
+[2025-11-29T22:32:16.766+0200] {processor.py:161} INFO - Started process (PID=43400) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:32:16.767+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:32:16.768+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:32:16.768+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:32:16.959+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:32:16.985+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:33:04.202+0200] {processor.py:161} INFO - Started process (PID=43453) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:33:04.203+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:33:04.203+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:33:04.203+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:33:04.458+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:33:04.486+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.285 seconds
+[2025-11-29T22:33:54.719+0200] {processor.py:161} INFO - Started process (PID=43516) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:33:54.720+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:33:54.721+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:33:54.721+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:33:54.916+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:33:54.942+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-29T22:34:47.907+0200] {processor.py:161} INFO - Started process (PID=43587) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:34:47.908+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:34:47.909+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:34:47.909+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:34:48.158+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:34:48.185+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.278 seconds
+[2025-11-29T22:35:40.056+0200] {processor.py:161} INFO - Started process (PID=43649) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:35:40.057+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:35:40.058+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:35:40.058+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:35:40.249+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:35:40.275+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:36:28.911+0200] {processor.py:161} INFO - Started process (PID=43707) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:36:28.912+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:36:28.912+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:36:28.912+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:36:29.169+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:36:29.197+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.288 seconds
+[2025-11-29T22:37:17.300+0200] {processor.py:161} INFO - Started process (PID=43765) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:37:17.300+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:37:17.300+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:37:17.300+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:37:17.492+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:37:17.519+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:38:06.358+0200] {processor.py:161} INFO - Started process (PID=43840) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:38:06.359+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:38:06.360+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:38:06.359+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:38:06.621+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:38:06.648+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.291 seconds
+[2025-11-29T22:38:57.114+0200] {processor.py:161} INFO - Started process (PID=43932) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:38:57.114+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:38:57.114+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:38:57.114+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:38:57.306+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:38:57.332+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-29T22:39:50.316+0200] {processor.py:161} INFO - Started process (PID=43994) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:39:50.317+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-29T22:39:50.317+0200] {logging_mixin.py:188} INFO - [2025-11-29T22:39:50.317+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:39:50.521+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-29T22:39:50.548+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.232 seconds
+[2025-11-30T00:44:31.358+0200] {processor.py:161} INFO - Started process (PID=48787) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:44:31.358+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:44:31.359+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:44:31.359+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:44:31.570+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:44:31.598+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.241 seconds
+[2025-11-30T00:45:58.894+0200] {processor.py:161} INFO - Started process (PID=48958) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:45:58.895+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:45:58.895+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:45:58.895+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:45:59.090+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:45:59.117+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-30T00:46:52.836+0200] {processor.py:161} INFO - Started process (PID=49039) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:46:52.837+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:46:52.837+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:46:52.837+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:46:53.100+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:46:53.128+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.294 seconds
+[2025-11-30T00:47:41.794+0200] {processor.py:161} INFO - Started process (PID=49100) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:47:41.795+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:47:41.795+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:47:41.795+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:47:41.987+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:47:42.014+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-30T00:48:34.079+0200] {processor.py:161} INFO - Started process (PID=49198) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:48:34.080+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:48:34.080+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:48:34.080+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:48:34.488+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:48:34.518+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.440 seconds
+[2025-11-30T00:49:32.932+0200] {processor.py:161} INFO - Started process (PID=49304) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:49:32.933+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:49:32.933+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:49:32.933+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:49:33.162+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:49:33.192+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.262 seconds
+[2025-11-30T00:50:30.010+0200] {processor.py:161} INFO - Started process (PID=49787) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:50:30.011+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:50:30.011+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:50:30.011+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:50:30.447+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:50:30.479+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.471 seconds
+[2025-11-30T00:51:29.230+0200] {processor.py:161} INFO - Started process (PID=49872) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:51:29.230+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:51:29.231+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:51:29.231+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:51:29.428+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:51:29.455+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.226 seconds
+[2025-11-30T00:52:27.776+0200] {processor.py:161} INFO - Started process (PID=49957) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:52:27.777+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:52:27.777+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:52:27.777+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:52:28.170+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:52:28.200+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.426 seconds
+[2025-11-30T00:53:22.568+0200] {processor.py:161} INFO - Started process (PID=50885) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:53:22.568+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:53:22.569+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:53:22.569+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:53:22.762+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:53:22.790+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.223 seconds
+[2025-11-30T00:54:17.991+0200] {processor.py:161} INFO - Started process (PID=50957) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:54:17.992+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:54:17.992+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:54:17.992+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:54:18.382+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:54:18.412+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.422 seconds
+[2025-11-30T00:55:16.471+0200] {processor.py:161} INFO - Started process (PID=51055) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:55:16.472+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:55:16.472+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:55:16.472+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:55:16.705+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:55:16.735+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.266 seconds
+[2025-11-30T00:56:12.828+0200] {processor.py:161} INFO - Started process (PID=51125) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:56:12.829+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:56:12.829+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:56:12.829+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:56:13.195+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:56:13.222+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.395 seconds
+[2025-11-30T00:57:04.318+0200] {processor.py:161} INFO - Started process (PID=51188) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:57:04.319+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:57:04.319+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:57:04.319+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:57:04.513+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:57:04.541+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-30T00:57:56.100+0200] {processor.py:161} INFO - Started process (PID=51246) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:57:56.102+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:57:56.102+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:57:56.102+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:57:56.366+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:57:56.394+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.295 seconds
+[2025-11-30T00:58:50.634+0200] {processor.py:161} INFO - Started process (PID=51312) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:58:50.635+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:58:50.635+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:58:50.635+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:58:50.828+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:58:50.856+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.223 seconds
+[2025-11-30T00:59:41.910+0200] {processor.py:161} INFO - Started process (PID=51372) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:59:41.911+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T00:59:41.911+0200] {logging_mixin.py:188} INFO - [2025-11-30T00:59:41.911+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:59:42.178+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T00:59:42.205+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.296 seconds
+[2025-11-30T01:00:33.195+0200] {processor.py:161} INFO - Started process (PID=51441) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:00:33.195+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:00:33.196+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:00:33.196+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:00:33.395+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:00:33.423+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.229 seconds
+[2025-11-30T01:01:22.889+0200] {processor.py:161} INFO - Started process (PID=51502) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:01:22.890+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:01:22.890+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:01:22.890+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:01:23.160+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:01:23.189+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.302 seconds
+[2025-11-30T01:02:14.654+0200] {processor.py:161} INFO - Started process (PID=51564) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:02:14.655+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:02:14.655+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:02:14.655+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:02:14.845+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:02:14.872+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-30T01:03:08.605+0200] {processor.py:161} INFO - Started process (PID=51622) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:03:08.607+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:03:08.607+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:03:08.607+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:03:08.878+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:03:08.907+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.302 seconds
+[2025-11-30T01:03:59.248+0200] {processor.py:161} INFO - Started process (PID=51689) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:03:59.249+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:03:59.250+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:03:59.250+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:03:59.447+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:03:59.474+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.227 seconds
+[2025-11-30T01:04:44.613+0200] {processor.py:161} INFO - Started process (PID=51752) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:04:44.614+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:04:44.614+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:04:44.614+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:04:44.880+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:04:44.906+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.294 seconds
+[2025-11-30T01:05:34.103+0200] {processor.py:161} INFO - Started process (PID=51811) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:05:34.104+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:05:34.104+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:05:34.104+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:05:34.308+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:05:34.336+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.235 seconds
+[2025-11-30T01:06:25.632+0200] {processor.py:161} INFO - Started process (PID=51881) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:06:25.634+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:06:25.634+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:06:25.634+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:06:25.906+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:06:25.933+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.302 seconds
+[2025-11-30T01:07:16.925+0200] {processor.py:161} INFO - Started process (PID=51943) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:07:16.926+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:07:16.926+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:07:16.926+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:07:17.118+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:07:17.145+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-30T01:08:09.361+0200] {processor.py:161} INFO - Started process (PID=51999) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:08:09.362+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:08:09.362+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:08:09.362+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:08:09.629+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:08:09.656+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.296 seconds
+[2025-11-30T01:09:01.585+0200] {processor.py:161} INFO - Started process (PID=52073) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:09:01.586+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:09:01.586+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:09:01.586+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:09:01.776+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:09:01.803+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.218 seconds
+[2025-11-30T01:09:52.193+0200] {processor.py:161} INFO - Started process (PID=52130) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:09:52.195+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:09:52.195+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:09:52.195+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:09:52.461+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:09:52.489+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.296 seconds
+[2025-11-30T01:10:41.037+0200] {processor.py:161} INFO - Started process (PID=52183) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:10:41.037+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:10:41.038+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:10:41.037+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:10:41.259+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:10:41.289+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.254 seconds
+[2025-11-30T01:11:31.602+0200] {processor.py:161} INFO - Started process (PID=52243) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:11:31.603+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:11:31.603+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:11:31.603+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:11:31.870+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:11:31.897+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.296 seconds
+[2025-11-30T01:12:25.241+0200] {processor.py:161} INFO - Started process (PID=52313) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:12:25.243+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:12:25.243+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:12:25.243+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:12:25.433+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:12:25.460+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-30T01:13:21.270+0200] {processor.py:161} INFO - Started process (PID=52382) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:13:21.272+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:13:21.272+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:13:21.272+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:13:21.537+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:13:21.564+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.295 seconds
+[2025-11-30T01:14:12.046+0200] {processor.py:161} INFO - Started process (PID=52444) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:14:12.046+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:14:12.046+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:14:12.046+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:14:12.241+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:14:12.267+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.223 seconds
+[2025-11-30T01:15:04.843+0200] {processor.py:161} INFO - Started process (PID=52510) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:15:04.844+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:15:04.844+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:15:04.844+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:15:05.148+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:15:05.175+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.333 seconds
+[2025-11-30T01:15:56.384+0200] {processor.py:161} INFO - Started process (PID=52590) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:15:56.384+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:15:56.385+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:15:56.385+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:15:56.589+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:15:56.616+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.233 seconds
+[2025-11-30T01:16:51.545+0200] {processor.py:161} INFO - Started process (PID=52650) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:16:51.546+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:16:51.546+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:16:51.546+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:16:51.876+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:16:51.903+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.359 seconds
+[2025-11-30T01:17:49.712+0200] {processor.py:161} INFO - Started process (PID=52736) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:17:49.713+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:17:49.714+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:17:49.714+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:17:49.906+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:17:49.933+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-30T01:18:42.828+0200] {processor.py:161} INFO - Started process (PID=52808) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:18:42.830+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:18:42.830+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:18:42.830+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:18:43.125+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:18:43.156+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.329 seconds
+[2025-11-30T01:19:36.004+0200] {processor.py:161} INFO - Started process (PID=52892) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:19:36.006+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:19:36.006+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:19:36.006+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:19:36.230+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:19:36.261+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.258 seconds
+[2025-11-30T01:20:29.233+0200] {processor.py:161} INFO - Started process (PID=52954) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:20:29.234+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:20:29.234+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:20:29.234+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:20:29.502+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:20:29.529+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.301 seconds
+[2025-11-30T01:21:22.536+0200] {processor.py:161} INFO - Started process (PID=53023) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:21:22.538+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:21:22.539+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:21:22.539+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:21:22.757+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:21:22.786+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.251 seconds
+[2025-11-30T01:22:15.577+0200] {processor.py:161} INFO - Started process (PID=53097) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:22:15.578+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:22:15.579+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:22:15.578+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:22:15.837+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:22:15.864+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.287 seconds
+[2025-11-30T01:23:06.138+0200] {processor.py:161} INFO - Started process (PID=53152) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:23:06.138+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:23:06.139+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:23:06.139+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:23:06.370+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:23:06.400+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.263 seconds
+[2025-11-30T01:24:02.966+0200] {processor.py:161} INFO - Started process (PID=53239) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:24:02.967+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:24:02.967+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:24:02.967+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:24:03.232+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:24:03.259+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.295 seconds
+[2025-11-30T01:24:56.669+0200] {processor.py:161} INFO - Started process (PID=53326) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:24:56.670+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:24:56.670+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:24:56.670+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:24:56.864+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:24:56.892+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.225 seconds
+[2025-11-30T01:25:46.006+0200] {processor.py:161} INFO - Started process (PID=53386) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:25:46.007+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:25:46.008+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:25:46.008+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:25:46.267+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:25:46.294+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.289 seconds
+[2025-11-30T01:26:36.603+0200] {processor.py:161} INFO - Started process (PID=53458) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:26:36.605+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:26:36.605+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:26:36.605+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:26:36.796+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:26:36.822+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-30T01:27:25.978+0200] {processor.py:161} INFO - Started process (PID=53517) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:27:25.980+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:27:25.980+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:27:25.980+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:27:26.245+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:27:26.272+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.296 seconds
+[2025-11-30T01:28:15.843+0200] {processor.py:161} INFO - Started process (PID=53575) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:28:15.844+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:28:15.844+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:28:15.844+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:28:16.035+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:28:16.062+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-30T01:29:05.203+0200] {processor.py:161} INFO - Started process (PID=53643) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:29:05.205+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:29:05.205+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:29:05.205+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:29:05.470+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:29:05.498+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.296 seconds
+[2025-11-30T01:29:52.973+0200] {processor.py:161} INFO - Started process (PID=53710) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:29:52.974+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:29:52.974+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:29:52.974+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:29:53.200+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:29:53.230+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.259 seconds
+[2025-11-30T01:30:45.615+0200] {processor.py:161} INFO - Started process (PID=53766) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:30:45.616+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:30:45.616+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:30:45.616+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:30:45.890+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:30:45.918+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.304 seconds
+[2025-11-30T01:31:39.951+0200] {processor.py:161} INFO - Started process (PID=53829) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:31:39.952+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:31:39.952+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:31:39.952+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:31:40.147+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:31:40.174+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-30T01:32:36.380+0200] {processor.py:161} INFO - Started process (PID=54360) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:32:36.381+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:32:36.381+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:32:36.381+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:32:36.737+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:32:36.770+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.392 seconds
+[2025-11-30T01:33:30.815+0200] {processor.py:161} INFO - Started process (PID=54422) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:33:30.816+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:33:30.816+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:33:30.816+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:33:31.007+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:33:31.034+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.220 seconds
+[2025-11-30T01:34:22.619+0200] {processor.py:161} INFO - Started process (PID=55586) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:34:22.620+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:34:22.621+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:34:22.621+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:34:22.889+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:34:22.917+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.298 seconds
+[2025-11-30T01:35:14.173+0200] {processor.py:161} INFO - Started process (PID=55646) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:35:14.174+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:35:14.174+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:35:14.174+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:35:14.364+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:35:14.391+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-30T01:36:02.525+0200] {processor.py:161} INFO - Started process (PID=55700) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:36:02.527+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:36:02.527+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:36:02.527+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:36:02.768+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:36:02.796+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.271 seconds
+[2025-11-30T01:36:54.576+0200] {processor.py:161} INFO - Started process (PID=55758) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:36:54.577+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:36:54.577+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:36:54.577+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:36:54.778+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:36:54.805+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.230 seconds
+[2025-11-30T01:37:48.525+0200] {processor.py:161} INFO - Started process (PID=55825) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:37:48.526+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:37:48.526+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:37:48.526+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:37:48.787+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:37:48.814+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.290 seconds
+[2025-11-30T01:38:44.220+0200] {processor.py:161} INFO - Started process (PID=55897) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:38:44.221+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:38:44.221+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:38:44.221+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:38:44.419+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:38:44.450+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.231 seconds
+[2025-11-30T01:39:37.620+0200] {processor.py:161} INFO - Started process (PID=55966) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:39:37.622+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:39:37.622+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:39:37.622+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:39:37.892+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:39:37.919+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.300 seconds
+[2025-11-30T01:40:31.152+0200] {processor.py:161} INFO - Started process (PID=56143) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:40:31.153+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:40:31.153+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:40:31.153+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:40:31.449+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:40:31.482+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.331 seconds
+[2025-11-30T01:41:28.101+0200] {processor.py:161} INFO - Started process (PID=56571) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:41:28.102+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:41:28.103+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:41:28.103+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:41:28.407+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:41:28.437+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.337 seconds
+[2025-11-30T01:42:24.029+0200] {processor.py:161} INFO - Started process (PID=56640) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:42:24.029+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:42:24.030+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:42:24.030+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:42:24.230+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:42:24.257+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.230 seconds
+[2025-11-30T01:43:17.540+0200] {processor.py:161} INFO - Started process (PID=56703) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:43:17.541+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:43:17.541+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:43:17.541+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:43:17.809+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:43:17.836+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.297 seconds
+[2025-11-30T01:44:11.062+0200] {processor.py:161} INFO - Started process (PID=57244) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:44:11.063+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:44:11.063+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:44:11.063+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:44:11.266+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:44:11.296+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.235 seconds
+[2025-11-30T01:45:03.296+0200] {processor.py:161} INFO - Started process (PID=57334) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:45:03.297+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:45:03.297+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:45:03.297+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:45:03.610+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:45:03.638+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.344 seconds
+[2025-11-30T01:45:56.610+0200] {processor.py:161} INFO - Started process (PID=58201) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:45:56.610+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:45:56.610+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:45:56.610+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:45:56.801+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:45:56.828+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.219 seconds
+[2025-11-30T01:46:50.979+0200] {processor.py:161} INFO - Started process (PID=58552) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:46:50.979+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:46:50.979+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:46:50.979+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:46:51.336+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:46:51.364+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.387 seconds
+[2025-11-30T01:47:45.404+0200] {processor.py:161} INFO - Started process (PID=58872) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:47:45.405+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:47:45.405+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:47:45.405+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:47:45.603+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:47:45.631+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.228 seconds
+[2025-11-30T01:48:37.703+0200] {processor.py:161} INFO - Started process (PID=59213) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:48:37.704+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:48:37.705+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:48:37.705+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:48:37.967+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:48:37.995+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.293 seconds
+[2025-11-30T01:49:31.698+0200] {processor.py:161} INFO - Started process (PID=59604) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:49:31.699+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:49:31.699+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:49:31.699+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:49:31.891+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:49:31.918+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.221 seconds
+[2025-11-30T01:50:25.195+0200] {processor.py:161} INFO - Started process (PID=59922) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:50:25.196+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:50:25.196+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:50:25.196+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:50:25.538+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:50:25.566+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.372 seconds
+[2025-11-30T01:51:23.019+0200] {processor.py:161} INFO - Started process (PID=60258) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:51:23.021+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:51:23.021+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:51:23.021+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:51:23.215+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:51:23.242+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.224 seconds
+[2025-11-30T01:52:18.104+0200] {processor.py:161} INFO - Started process (PID=60583) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:52:18.105+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:52:18.106+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:52:18.106+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:52:18.407+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:52:18.440+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.337 seconds
+[2025-11-30T01:53:13.392+0200] {processor.py:161} INFO - Started process (PID=60897) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:53:13.393+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:53:13.393+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:53:13.393+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:53:13.593+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:53:13.621+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.230 seconds
+[2025-11-30T01:54:15.616+0200] {processor.py:161} INFO - Started process (PID=61263) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:54:15.617+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:54:15.617+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:54:15.617+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:54:15.917+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:54:15.948+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.333 seconds
+[2025-11-30T01:55:11.175+0200] {processor.py:161} INFO - Started process (PID=61595) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:55:11.176+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:55:11.176+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:55:11.176+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:55:11.370+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:55:11.397+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.223 seconds
+[2025-11-30T01:56:02.608+0200] {processor.py:161} INFO - Started process (PID=61901) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:56:02.610+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:56:02.610+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:56:02.610+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:56:02.933+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:56:02.966+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.361 seconds
+[2025-11-30T01:56:58.839+0200] {processor.py:161} INFO - Started process (PID=62236) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:56:58.840+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:56:58.840+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:56:58.840+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:56:59.043+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:56:59.071+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.232 seconds
+[2025-11-30T01:57:53.337+0200] {processor.py:161} INFO - Started process (PID=62593) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:57:53.340+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:57:53.340+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:57:53.340+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:57:53.759+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:57:53.788+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.453 seconds
+[2025-11-30T01:58:52.425+0200] {processor.py:161} INFO - Started process (PID=62958) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:58:52.426+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:58:52.426+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:58:52.426+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:58:52.741+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:58:52.771+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.348 seconds
+[2025-11-30T01:59:44.703+0200] {processor.py:161} INFO - Started process (PID=63914) to work on /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:59:44.704+0200] {processor.py:830} INFO - Processing file /Users/hirushipeiris/airflow_new/dags/etl_functions.py for tasks to queue
+[2025-11-30T01:59:44.704+0200] {logging_mixin.py:188} INFO - [2025-11-30T01:59:44.704+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:59:44.964+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/hirushipeiris/airflow_new/dags/etl_functions.py
+[2025-11-30T01:59:44.990+0200] {processor.py:183} INFO - Processing /Users/hirushipeiris/airflow_new/dags/etl_functions.py took 0.288 seconds
