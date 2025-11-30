@@ -7,7 +7,7 @@ This project was completed as part of the *Orchestrating an ETL Pipeline in Airf
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 - **Apache Airflow**
 - **Python**
 - **Pandas**
@@ -17,11 +17,11 @@ This project was completed as part of the *Orchestrating an ETL Pipeline in Airf
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ---
 
-# 🚀 ETL Pipeline Overview
+# ETL Pipeline Overview
 
 ## 1. **Extract**
 - Uses Airflow to retrieve the dataset path.
@@ -33,19 +33,19 @@ This project was completed as part of the *Orchestrating an ETL Pipeline in Airf
 ## 2. **Transform**
 The transformation step includes:
 
-### 🔹 Data Cleaning
+###  Data Cleaning
 - Convert `Formatted Date` to `datetime`.
 - Handle missing values in temperature, humidity, wind speed, etc.
 - Remove duplicates.
 - Normalize humidity if values > 1.
 
-### 🔹 Feature Engineering
+###  Feature Engineering
 - **Daily Aggregates** using resampling.
 - **Monthly Aggregates** for temperature, humidity, visibility, pressure, etc.
 - **Mode Precip Type** per month.
 - **Wind Strength Category** based on Beaufort scale.
 
-### 🔹 Output
+###  Output
 Creates two CSV files:
 - `daily_weather.csv`
 - `monthly_weather.csv`
@@ -74,7 +74,7 @@ This step uses SQLAlchemy and ensures the tables are replaced on each run.
 
 ---
 
-# 🗄 Database Example Output
+#  Database Example Output
 
 SQLite terminal preview:
 
@@ -83,7 +83,7 @@ Tables store daily & monthly weather metrics successfully.
 
 ---
 
-# 🎨 Airflow DAG
+#  Airflow DAG
 The final DAG contains the following tasks:
 
 1. `extract_data`
@@ -94,19 +94,8 @@ The final DAG contains the following tasks:
 
 Trigger rules ensure validation must succeed before loading.
 
-**All tasks ran successfully.**
 
----
-
-# 📸 Screenshots Included
-This project includes:
-- ✔ Airflow UI screenshot (DAG success)
-- ✔ Database screenshot (daily & monthly tables)
-- ✔ Terminal screenshot showing sample records
-
----
-
-# ✨ How to Run the Pipeline
+#  How to Run the Pipeline
 
 ### 1. Start Airflow
 ```bash
