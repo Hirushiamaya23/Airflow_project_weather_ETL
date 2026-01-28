@@ -94,9 +94,3 @@ The final DAG contains the following tasks:
 
 Trigger rules ensure validation must succeed before loading.
 
-
-#  How to Run the Pipeline
-
-### 1. Start Airflow
-```bash
-airflow standalone
